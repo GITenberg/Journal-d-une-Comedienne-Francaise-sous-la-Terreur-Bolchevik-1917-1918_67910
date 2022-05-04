@@ -1,0 +1,39 @@
+_repo: Journal-d-une-Comedienne-Francaise-sous-la-Terreur-Bolchevik-1917-1918_67910
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pax, Paulette
+    aliases:
+    - Ménard, Paulette
+    - Menard, Paulette
+    birthdate: 1887
+    deathdate: 1942
+    gutenberg_agent_id: '54528'
+    url: http://www.gutenberg.org/2009/agents/54528
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Paulette_Pax
+    - https://en.wikipedia.org/wiki/Paulette_Pax
+description: ''
+gutenberg_issued: '2022-04-23'
+identifiers:
+  gutenberg: '67910'
+  lccn: ltf90029019
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015021275972
+pgterms:marc905: 20210409134059pax
+pgterms:marc906: '1919'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: France :L'Édition,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Communism -- Soviet Union'
+- !lcc 'DK'
+- !lcsh 'Soviet Union -- History -- Revolution, 1917-1921'
+- GITenberg
+title: Journal d'une Comédienne Française sous la Terreur Bolchevik, 1917-1918
+url: http://www.gutenberg.org/ebooks/67910
