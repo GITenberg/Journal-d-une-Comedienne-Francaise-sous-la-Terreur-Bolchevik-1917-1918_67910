@@ -1,5 +1,8 @@
 _repo: Journal-d-une-Comedienne-Francaise-sous-la-Terreur-Bolchevik-1917-1918_67910
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67910-h/images/cover.jpg
 creator:
   author:
     agent_name: Pax, Paulette
@@ -14,6 +17,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Paulette_Pax
     - https://en.wikipedia.org/wiki/Paulette_Pax
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67910#Journal-d-une-Comedienne-Francaise-sous-la-Terreur-Bolchevik-1917-1918
 gutenberg_issued: '2022-04-23'
 identifiers:
   gutenberg: '67910'
